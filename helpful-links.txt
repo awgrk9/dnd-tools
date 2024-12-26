@@ -1,6 +1,7 @@
+## Adafruit PiTft Documentation
 https://learn.adafruit.com/adafruit-2-8-pitft-capacitive-touch/easy-install-2
 
-
+## Xorg TFT fix
 I posted this:
 
     Section "Device"
@@ -30,3 +31,8 @@ I posted this:
 to the existing xorg config /etc/X11/xorg.conf.d/99-calibration.conf and run sudo startx. Then the desktop environment was loaded on touchdisplay. Touch works too. 
 
 
+## Raspberry Pi Cam Documentation
+https://www.raspberrypi.com/documentation/computers/camera_software.html#rpicam-apps
+
+## PiCam Python Library Documentation 
+https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf
